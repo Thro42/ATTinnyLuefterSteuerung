@@ -10,3 +10,5 @@ Es wird ein mit ATTiny85 eingesetzt der die Temperatur mit einem DS18B20 misst. 
 Ich nutze ein Digispark Modul. Das ist leichter zu Programmieren und man spart den 5V Regler
 <img src="GehäuseLüfterSteuerungDigistump_Schaltplan.png">
 
+Das fertige Modul mit Stepdown und Lüfter sieht dan so aus.
+<img with=680 src="MotorSteuerung-Einbau.jpg">
