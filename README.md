@@ -12,3 +12,5 @@ Ich nutze ein Digispark Modul. Das ist leichter zu Programmieren und man spart d
 
 Das fertige Modul mit Stepdown und Lüfter sieht dan so aus.
 <img with=680 src="MotorSteuerung-Einbau.jpg">
+
+Ich habe ein Video zu diesem Programm gemacht was ihr auf [YouTube](https://youtu.be/haV-1V7HK4w) anschauen könnt.
